@@ -1,5 +1,7 @@
 # Roaree Benchmark Club 🦁
 
+[Membership Application](./MEMBERSHIP_APPLICATION.md) | [Project Structure](./PROJECT_STRUCTURE.md)
+
 **Columbia University's Invite-Only LLM Benchmark Initiative**
 
 Roaree Benchmark is a student-led research group inspired by Columbia's mascot (the Lion), focused on benchmarking and evaluating Large Language Models (LLMs) and AI systems. This is an **invite-only** collaborative space for vetted students from Columbia University and select external contributors working on responsible AI assessment and transparency.
