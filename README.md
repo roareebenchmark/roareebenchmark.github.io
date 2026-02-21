@@ -1,8 +1,11 @@
-# Roaree LLM Model Benchmark Club <img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="50" style="display: block; margin: 0 auto;">
+# Roaree LLM Model Benchmark Club
+<br>
+<img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="70" style="display: block; margin: 0 auto;">
+<br>
 
 [APPLY TO TEAM](https://forms.gle/MZpzXQ2hXNEMD18o7) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
 
-**Columbia University's Invite-Only LLM Benchmark Initiative**
+**Columbia University's LLM Benchmark Initiative**
 
 **Roaree Benchmark** is a student-led research initiative at **Columbia University** dedicated to the rigorous evaluation of state-of-the-art **Large Language Models (LLMs)**.
 
