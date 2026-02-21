@@ -1,10 +1,20 @@
-# Roaree Benchmark Club 🦁
+# Roaree LLM Model Benchmark Club <img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="100" style="display: block; margin: 0 auto;">
 
 [APPLY TO TEAM](./MEMBERSHIP_APPLICATION.md) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
 
 **Columbia University's Invite-Only LLM Benchmark Initiative**
 
-Roaree Benchmark is a student-led research group inspired by Columbia's mascot (the Lion), focused on benchmarking and evaluating Large Language Models (LLMs) and AI systems. This is an **invite-only** collaborative space for vetted students from Columbia University and select external contributors working on responsible AI assessment and transparency.
+**Roaree Benchmark** is a student-led research initiative at **Columbia University** dedicated to the rigorous evaluation of state-of-the-art **Large Language Models (LLMs)**.
+
+### 🔬 Models Under Evaluation
+We will be benchmarking the industry's "Top 4" flagship models to establish our baseline:
+
+1. **OpenAI GPT-4o** – Testing reasoning and multimodal capabilities.
+2. **Anthropic Claude 3.5 Sonnet** – Evaluating coding proficiency and nuance.
+3. **Google Gemini 1.5 Pro** – Assessing long-context window performance.
+4. **Meta Llama 3.1 (405B)** – Analyzing open-weights vs. closed-source performance.
+
+This is an **invite-only** collaborative space for vetted students from Columbia University and select external contributors working on responsible AI assessment and transparency.
 
 ## 🎯 Mission
 
