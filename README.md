@@ -1,4 +1,4 @@
-# Roaree LLM Model Benchmark Club <img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="100" style="display: block; margin: 0 auto;">
+# Roaree LLM Model Benchmark Club <img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="50" style="display: block; margin: 0 auto;">
 
 [APPLY TO TEAM](https://forms.gle/MZpzXQ2hXNEMD18o7) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
 
