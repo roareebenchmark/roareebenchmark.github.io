@@ -1,6 +1,6 @@
 # Roaree Benchmark Club 🦁
 
-[Membership Application](./MEMBERSHIP_APPLICATION.md) | [Project Structure](./PROJECT_STRUCTURE.md)
+[APPLY TO TEAM](./MEMBERSHIP_APPLICATION.md) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
 
 **Columbia University's Invite-Only LLM Benchmark Initiative**
 
