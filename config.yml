@@ -1,0 +1,18 @@
+# Site Settings
+title: Roaree LLM Benchmark
+description: Student-led research group at Columbia University evaluating LLMs.
+remote_theme: just-the-docs/just-the-docs
+
+# URL Settings for organization/user page
+url: "https://roareebenchmark.github.io"
+baseurl: "" # Leave this empty for .github.io repos
+
+# Navigation Settings
+nav_enabled: true
+enable_copy_code_button: true
+
+# Color Scheme
+color_scheme: light
+
+# Footer content
+footer_content: "© 2026 Roaree LLM Model Benchmark Club | Columbia University"
