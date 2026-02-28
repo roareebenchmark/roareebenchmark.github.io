@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Welcome to Roaree Benchmark Club! 🦁
 
 Congratulations on joining the Roaree Benchmark Club! We're excited to have you as part of our team working on LLM evaluation and benchmarking.
