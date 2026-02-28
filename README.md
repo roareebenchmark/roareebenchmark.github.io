@@ -2,7 +2,7 @@
 
 # Roaree LLM Model Benchmark Club
 
-[APPLY TO TEAM](https://forms.gle/MZpzXQ2hXNEMD18o7) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
+[APPLY TO TEAM](https://forms.gle/bTBuDyHQc46jLCDm7) | [HOW TO CONTRIBUTE](./CONTRIBUTING.md)
 
 **Columbia University's LLM Benchmark Initiative**
 
