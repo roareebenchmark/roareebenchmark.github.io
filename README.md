@@ -42,8 +42,6 @@ If you are a Columbia student interested in joining:
 ## 🍕 Student Meetups: Grades & Slices
 **Where high-stakes research meets Columbia culture.**
 
-![Pizza Party](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3V4YWZueXU5amZ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7arsVn4o8Z502Uxy/giphy.gif)
-
 Serious auditing doesn't have to be dry. We host regular technical meetups to break down the latest AI breakthroughs in a collaborative, high-octane environment.
 
 * **Live Grading Sessions:** Join the "War Room" to stress-test and grade the newest, most dynamic LLM releases the moment they hit the news.
