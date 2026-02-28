@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 <img src="./assets/roaree-bench-logo.png" alt="Roaree Bench Logo" width="80" style="display: block; margin: 0 auto;">
 
 # Roaree LLM Model Benchmark Club
