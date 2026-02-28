@@ -24,7 +24,7 @@ Our mission is to develop rigorous, transparent, and reproducible benchmarks for
 
 ## 🔒 Membership
 
-**This repository is invite-only.** Access is restricted to:
+**This project is opoen to all students**
 
 - Vetted Columbia University students with demonstrated interest in AI research
 - Select external collaborators approved by the core team
