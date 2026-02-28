@@ -42,14 +42,14 @@ If you are a Columbia student interested in joining:
 ## 🍕 Student Meetups: Grades & Slices
 **Where high-stakes research meets Columbia culture.**
 
-Serious auditing doesn't have to be dry. We host regular technical meetups to break down the latest AI breakthroughs in a collaborative, high-octane environment.
+Serious auditing doesn't have to be dry. We plan to host regular technical meetups to break down the latest AI breakthroughs in a collaborative environment.
 
-* **Live Grading Sessions:** Join the "War Room" to stress-test and grade the newest, most dynamic LLM releases the moment they hit the news.
-* **Fuel Your Research:** We keep the brainpower running with **complimentary pizza and snacks** at every session. 
+* **LLM Grading Sessions:** Join the "War Room" to stress-test and grade the newest, most dynamic LLM releases the moment they hit the news.
+* **Fuel Your Research:** We keep the brainpower running with **complimentary pizza and snacks.**
 * **Build Your Network:** Connect with a cohort of ambitious peers, alumni, and industry mentors who are as obsessed with the frontier of AI as you are.
 * **Make an Impact:** Turn your casual Friday into a collaborative research sprint that lands on your resume and in global technical reports.
 
----
+**Summer Research for Students Returning in Fall 2026**
 ---
 
 *Roar, Lions, Roar! 🦁*
