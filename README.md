@@ -6,7 +6,7 @@
 
 **Columbia University's LLM Benchmark Initiative**
 
-**Roaree Benchmark** is a student-led research initiative at Columbia University dedicated to the rigorous evaluation of state-of-the-art **Large Language Models (LLMs)**. We move beyond the "chat" and begin the **Audit**—bringing together elite teams to test and grade today's most dynamic LLMs through intensive benchmark testing.
+**Roaree Benchmark** is a student-led research initiative at Columbia University dedicated to the rigorous evaluation of state-of-the-art **Large Language Models (LLMs)**.
 
 ### 🔬 Models Under Evaluation
 We will be benchmarking the industry's "Top 4" flagship models to establish our baseline:
