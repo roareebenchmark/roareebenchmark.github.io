@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contribute
+nav_order: 1
+---
+
 # Contributors
 
 This file recognizes the members and contributors to the Roaree Benchmark Club.
