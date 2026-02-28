@@ -30,4 +30,4 @@ Our team evaluates these models based on:
 
 
 ---
-*Interested in testing a specific model? Join the project team to suggest a benchmark candidate.*
+*Interested in testing a specific model? [Join the project team](https://forms.gle/MZpzXQ2hXNEMD18o7) to suggest a benchmark candidate.*
