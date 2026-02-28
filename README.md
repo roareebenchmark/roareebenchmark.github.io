@@ -8,6 +8,14 @@
 
 **Roaree Benchmark** is a student-led research initiative at **Columbia University** dedicated to the rigorous evaluation of state-of-the-art **Large Language Models (LLMs)**.
 
+### 🎓 Our Mission: We Grade the Giants
+Roaree Benchmark is a student-led research group dedicated to "grading" the next generation of AI. Standard benchmarks are outdated; we build the new ones.
+
+* **Become an AI Auditor:** We don't just use LLMs—we break them. Our members act as the primary graders for today’s hottest releases (GPT-4, Claude, Gemini) and specialized **AI Agents**.
+* **Get Published:** Our goal is to turn our benchmarks into peer-reviewed research. By joining, you have the opportunity to get your name on white papers and reports that define how models are evaluated.
+* **Industry Access:** We host guest **speakers** from top AI labs and exclusive **workshops** to learn the latest in prompt engineering, model evaluation, and agentic workflows.
+* **Work with Leaders:** Collaborate directly with industry mentors and faculty advisors to ensure our grading system is rigorous, fair, and professional.
+
 ### 🔬 Models Under Evaluation
 We will be benchmarking the industry's "Top 4" flagship models to establish our baseline:
 
