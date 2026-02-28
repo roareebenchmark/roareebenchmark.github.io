@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Get Started
-nav_order: 3
+title: Membership
+nav_order: 4
 ---
 
 # Membership
