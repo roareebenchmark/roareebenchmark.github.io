@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Responsible AI
-nav_order: 6
+nav_order: 5
 ---
 
 # Responsible AI & Ethics Initiative ⚖️
