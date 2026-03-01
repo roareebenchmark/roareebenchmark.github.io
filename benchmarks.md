@@ -4,4 +4,8 @@ title: Benchmarks
 nav_order: 2
 ---
 
-Coming soon
+### BENCKMARK REPORTS
+
+This page will host projects research reports, and benchmark grades for new LLM's and AI Agents under review.
+
+**Coming soon!**
