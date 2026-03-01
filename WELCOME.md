@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get Started
-nav_order: 
+nav_order: 1
 ---
 
 # Welcome to Roaree Benchmark 🦁
