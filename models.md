@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LLM Models
-nav_order: 1
+nav_order: 4
 ---
 
 # Evaluated LLM Models
